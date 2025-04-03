@@ -351,7 +351,7 @@ export {
   illustration,
   greeting,
   socialMediaLinks,
-  splashScreen,
+
   skillsSection,
   educationInfo,
   techStack,
