@@ -12,12 +12,6 @@ export default function Footer() {
         <p className={isDark ? "dark-mode footer-text" : "footer-text"}>
           {emoji("Made with ❤️ by Prathmesh Gangarde")}
         </p>
-        <p className={isDark ? "dark-mode footer-text" : "footer-text"}>
-          Developed By{" "}
-          <a href="https://javaempiredev.vercel.app">
-            JavaEmpireDev
-          </a>
-        </p>
       </div>
     </Fade>
   );
