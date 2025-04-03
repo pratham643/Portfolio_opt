@@ -9,7 +9,7 @@ import splashAnimation from "./assets/lottie/splashAnimation"; // Rename to your
 const splashScreen = {
   enabled: false, // set false to disable splash screen
   animation: splashAnimation,
-  duration: 2000 // Set animation duration as per your animation
+  duration: 9000 // Set animation duration as per your animation
 };
 
 // Summary And Greeting Section
@@ -21,7 +21,7 @@ const illustration = {
 const greeting = {
   username: "Prathmesh Gangarde",
   title: "Hi all, I'm Prathmesh",
-  subTitle: emoji(
+  subTitle: (
     "A passionate Full Stack Software Developer 🚀 having an experience of building Web and Mobile applications with JavaScript / Reactjs / Nodejs / React Native and some other cool libraries and frameworks."
   ),
   resumeLink:
